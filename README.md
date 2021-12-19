@@ -3,7 +3,7 @@
 # Installation 
 Öncelikle projeyi klonlayın. 
 
-#Usage
+# Usage
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 # Contributing
